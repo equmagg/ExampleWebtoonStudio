@@ -1,0 +1,100 @@
+body{margin: 0;
+font-family: 'Myriad Pro', sans-serif;}
+.container{ margin: 0px 120px;}
+.header {background-image: url(webBG.png);
+height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;}
+.header-line{
+    padding-top: 12px;
+    display: flex;
+    align-items: center;
+    
+}
+.header-logo{margin-right: 350px;}
+.nav-item{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 24px;
+    margin-right: 115px;
+}
+.header-menu-img{
+    position:  absolute;
+    top: 40px;
+    right: 100px;
+}
+.header-title{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 20px;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 270px;
+    padding-left: 20px;
+}
+.header-subtitle{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+.header-title::first-letter{
+    color:#cc3e3e;
+}
+.button{
+    padding-top: 20px;
+}
+.button-ref{
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 5px;
+    padding-top: 20px;
+    padding: 15px 20px;
+    background-color: #cc3e3e;
+}
+.block-title{
+    color: #cc3e3e;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 100px;
+    letter-spacing: 20px;
+    font-weight: 600;
+}
+
+.info-img{
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 100px;
+}
+.info-text{
+    text-align: center;
+    color: #1a1a1a
+}
+.block-close{
+    margin-bottom: 200px;
+}
+.footer
+{
+
+}
+.footer-contacts{
+    color:#fff;
+    background-color: #1a1a1a;
+    padding: 100px 0px;
+}
+
+
+
+
+
+
+
+
+
